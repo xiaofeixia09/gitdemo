@@ -1,3 +1,7 @@
 Git is a version control system
 my branch add demo
+<<<<<<< HEAD
 hello master
+=======
+hello feature1
+>>>>>>> feature1
